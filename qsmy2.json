@@ -5,42 +5,42 @@
   "role": [
     {
       "name": "荆天明",
-      "level": "100(种族等级40+职业等级60)",
-      "identity": "墨家巨子",
+      "dub": "冯骏骅",
+      "identity": "第一男主角；墨家巨子",
       "speciality":"机关术",
       "race":"燕丹"
     },
     {
       "name": "高月",
-      "level": "100（种族等级30+职业等级70）",
-      "identity": "公主",
+      "dub": "黄怡晴",
+      "identity": "第一女主角；公主",
       "speciality":"医术",
       "race":"燕丹"
     },
     {
       "name": "项少羽",
-      "level": "100（种族等级20+职业等级80）",
-      "identity": "项氏少族长",
+      "dub": "沈达威",
+      "identity": "项氏少族长；名将项燕之孙",
       "speciality":"武力",
       "race":"楚国"
     },
     {
       "name": "石兰",
-      "level": "100（种族等级30+职业等级70）",
-      "identity": "蜀山守护者之一",
+      "dub": "洪海天",
+      "identity": "蜀山虞渊护卫之一",
       "speciality":"轻功",
       "race":"蜀山"
     },
     {
       "name": "鬼谷子",
-      "level": "100（种族等级0+职业等级100）",
-      "identity": "纵横派首领",
-      "speciality":"百步飞剑",
+      "dub": "100（种族等级0+职业等级100）",
+      "identity": "历代纵横家首领",
+      "speciality":"纵剑术必杀·百步飞剑",
       "race":"纵横派"
     },
     {
       "name": "端木蓉",
-      "level": "100（种族等级0+职业等级100）",
+      "dub": "100（种族等级0+职业等级100）",
       "identity": "墨家巨子之一",
       "speciality":"医术",
       "race":"墨家"
