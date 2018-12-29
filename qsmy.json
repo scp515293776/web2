@@ -1,0 +1,49 @@
+{
+  "name": "秦时明月",
+  "author": "玄机",
+  "date": 2007,
+  "role": [
+    {
+      "name": "荆天明",
+      "level": "100(种族等级40+职业等级60)",
+      "identity": "墨家巨子",
+      "speciality":"机关术",
+      "race":"燕丹"
+    },
+    {
+      "name": "高月",
+      "level": "100（种族等级30+职业等级70）",
+      "identity": "公主",
+      "speciality":"医术",
+      "race":"燕丹"
+    },
+    {
+      "name": "项少羽",
+      "level": "100（种族等级20+职业等级80）",
+      "identity": "项氏少族长",
+      "speciality":"武力",
+      "race":"楚国"
+    },
+    {
+      "name": "石兰",
+      "level": "100（种族等级30+职业等级70）",
+      "identity": "蜀山守护者之一",
+      "speciality":"轻功",
+      "race":"蜀山"
+    },
+    {
+      "name": "鬼谷子",
+      "level": "100（种族等级0+职业等级100）",
+      "identity": "纵横派首领",
+      "speciality":"百步飞剑",
+      "race":"纵横派"
+    },
+    {
+      "name": "端木蓉",
+      "level": "100（种族等级0+职业等级100）",
+      "identity": "墨家巨子之一",
+      "speciality":"医术",
+      "race":"墨家"
+    }
+  ]
+}
